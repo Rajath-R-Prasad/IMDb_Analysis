@@ -41,7 +41,7 @@ Below are some of the visualizations generated:
 - 📦 Bar chart: Genre distribution
 - 🕒 Line plot: Year-wise rating trend
 - 🎯 Scatter plot: Ratings vs Number of Votes
-- 🔥 Heatmap: Average IMDb rating by Genre and Year
+- 🔥 Pie chart: To depict distributions
 
 ## 🧾 Conclusion
 
